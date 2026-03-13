@@ -38,3 +38,9 @@ The low gap between training and testing R² indicates the model generalizes wel
   - The dataset was limited in scope — only covering Georgia listings from the first six months of 2021, which likely constrained the model's predictive power
   - Data quality issues required significant cleaning and may have impacted accuracy
   - Several potentially useful features (zipcode, buildingArea) were dropped early and may have contributed more than initially assumed
+ 
+- Screenshots:
+
+  ![Screenshot](https://github.com/jb00753/Data-Analytics-Project2/blob/main/assets/Screenshot%20(179).png?raw=true)
+
+  ![Screenshot](https://github.com/jb00753/Data-Analytics-Project2/blob/main/assets/Screenshot%20(178).png?raw=true)
